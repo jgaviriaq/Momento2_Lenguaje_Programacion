@@ -1,0 +1,6 @@
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Concesionariojgq\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Concesionariojgq\Modelo\bin\Debug\Modelo.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Concesionariojgq\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Concesionariojgq\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Concesionariojgq\Modelo\obj\Debug\Modelo.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Concesionariojgq\Modelo\obj\Debug\Modelo.pdb

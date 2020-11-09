@@ -1,0 +1,8 @@
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Concesionariojgq\Controlador\bin\Debug\Controlador.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Concesionariojgq\Controlador\bin\Debug\Controlador.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Concesionariojgq\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Concesionariojgq\Controlador\bin\Debug\Modelo.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Concesionariojgq\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Concesionariojgq\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Concesionariojgq\Controlador\obj\Debug\Controlador.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Concesionariojgq\Controlador\obj\Debug\Controlador.pdb
